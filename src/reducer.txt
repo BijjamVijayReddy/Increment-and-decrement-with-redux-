@@ -1,0 +1,12 @@
+
+  Redux in React js;
+
+
+  "Redux is the libary to update and the maize the state in the application.it servers as the centerilze store for state that needs accorss the entire application"
+
+
+  //MainTopics:
+  1)Action(what to do?);
+  2)Reducer(How to Do?);
+  3)store(Hold the state Application);
+  4)Create Store and Wrapp the index.js;
