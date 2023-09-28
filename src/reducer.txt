@@ -10,3 +10,8 @@
   2)Reducer(How to Do?);
   3)store(Hold the state Application);
   4)Create Store and Wrapp the index.js;
+
+
+  Note: 
+  1)window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()    -- used this one in store which helps show in extension.
+  2)Redux DevTools extension from Chrome.
