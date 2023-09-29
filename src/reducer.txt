@@ -16,3 +16,4 @@
   Note: 
   1)window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()    -- used this one in store which helps show in extension.
   2)Redux DevTools extension from Chrome.
+  3)Wrapp the Provider in App.js/index.js
